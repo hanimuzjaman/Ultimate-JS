@@ -1,7 +1,5 @@
 # Ultimate JavaScript Course — From Basics to Advanced
 
-A comprehensive, structured learning course to **master JavaScript from fundamentals to advanced topics**, with **75+ files**, **500+ code examples**, and **53 practice exercises**.
-
 This course is designed for:
 
 - **Beginners** building strong foundations (start here!)
@@ -242,5 +240,3 @@ This structure ensures:
 ## 📜 License
 
 MIT License : Free to use, modify, and distribute.
-
-# Ultimate-JS
