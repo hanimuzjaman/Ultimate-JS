@@ -1,15 +1,20 @@
-# JavaScript Fundamentals — From Basics to Advanced
+# Ultimate JavaScript Course — From Basics to Advanced
 
-A structured, hands-on repository to **master JavaScript step by step**, covering
-core fundamentals, browser APIs, asynchronous programming, OOP, performance, and
-modern tooling.
+A comprehensive, structured learning course to **master JavaScript from fundamentals to advanced topics**, with **75+ files**, **500+ code examples**, and **53 practice exercises**.
 
-This repository is designed for:
+This course is designed for:
 
-- Beginners building strong foundations
-- Intermediate developers filling knowledge gaps
-- Interview preparation
-- Practical learning through real exercises
+- **Beginners** building strong foundations (start here!)
+- **Intermediate developers** filling knowledge gaps
+- **Interview candidates** preparing for JavaScript roles
+- **Self-learners** wanting hands-on practice with theory
+- **Teachers** looking for structured curriculum materials
+
+## 🚀 Quick Start
+
+1. **New?** Read [GETTING_STARTED.md](./GETTING_STARTED.md)
+2. **Want overview?** Check [COURSE_OVERVIEW.md](./COURSE_OVERVIEW.md)
+3. **Ready to learn?** Start with [Module 1: JavaScript Basics](./javascript-fundamentals/01-javascript-basics/)
 
 ---
 
@@ -237,4 +242,5 @@ This structure ensures:
 ## 📜 License
 
 MIT License : Free to use, modify, and distribute.
+
 # Ultimate-JS
